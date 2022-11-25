@@ -1,0 +1,28 @@
+C:\Users\danie\OneDrive\Documentos\Systems\vs\symebral\bin\Debug\symebral.exe.config
+C:\Users\danie\OneDrive\Documentos\Systems\vs\symebral\bin\Debug\symebral.exe
+C:\Users\danie\OneDrive\Documentos\Systems\vs\symebral\bin\Debug\symebral.pdb
+C:\Users\danie\OneDrive\Documentos\Systems\vs\symebral\obj\Debug\symebral.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documentos\Systems\vs\symebral\obj\Debug\symebral.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Documentos\Systems\vs\symebral\obj\Debug\symebral.SYMEBRAL.resources
+C:\Users\danie\OneDrive\Documentos\Systems\vs\symebral\obj\Debug\symebral.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documentos\Systems\vs\symebral\obj\Debug\symebral.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Documentos\Systems\vs\symebral\obj\Debug\symebral.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\Systems\vs\symebral\obj\Debug\symebral.exe
+C:\Users\danie\OneDrive\Documentos\Systems\vs\symebral\obj\Debug\symebral.pdb
+C:\Users\danie\OneDrive\Documentos\Systems\vs\symebral\obj\Debug\symebral.GAME.resources
+C:\Users\danie\OneDrive\Documentos\Systems\vs\symebral\obj\Debug\symebral.Form3.resources
+C:\Users\danie\OneDrive\Documentos\Systems\vs\symebral\obj\Debug\symebral.Form4.resources
+C:\Users\HP\Desktop\Proyecto 1.2\symebral\bin\Debug\symebral.exe.config
+C:\Users\HP\Desktop\Proyecto 1.2\symebral\bin\Debug\symebral.exe
+C:\Users\HP\Desktop\Proyecto 1.2\symebral\obj\Debug\symebral.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto 1.2\symebral\obj\Debug\symebral.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Proyecto 1.2\symebral\obj\Debug\symebral.SYMEBRAL.resources
+C:\Users\HP\Desktop\Proyecto 1.2\symebral\obj\Debug\symebral.GAME.resources
+C:\Users\HP\Desktop\Proyecto 1.2\symebral\obj\Debug\symebral.Form3.resources
+C:\Users\HP\Desktop\Proyecto 1.2\symebral\obj\Debug\symebral.Form4.resources
+C:\Users\HP\Desktop\Proyecto 1.2\symebral\obj\Debug\symebral.Properties.Resources.resources
+C:\Users\HP\Desktop\Proyecto 1.2\symebral\obj\Debug\symebral.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Proyecto 1.2\symebral\obj\Debug\symebral.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto 1.2\symebral\obj\Debug\symebral.exe
+C:\Users\HP\Desktop\Proyecto 1.2\symebral\obj\Debug\symebral.pdb
+C:\Users\HP\Desktop\Proyecto 1.2\symebral\bin\Debug\symebral.pdb
